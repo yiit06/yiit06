@@ -1,7 +1,10 @@
 # Merhaba, Ben Yiğit! 👋
 
-ㅤㅤㅤㅤㅤ
+
+
 [klytsmsbomber](https://github.com/yiit06/klytsmsbomber)
+
+[klytsmsbomber-en](https://github.com/yiit06/klytsmsbomber-en)
 ㅤㅤㅤㅤㅤ
 
 ㅤㅤㅤㅤㅤ
